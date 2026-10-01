@@ -22,7 +22,8 @@
       "sizes": [
         "12oz",
         "16oz"
-      ]
+      ],
+      "featured": true
     }
   ]
 }
